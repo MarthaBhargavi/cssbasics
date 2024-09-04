@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+header{
+    font-family: Playfair Display;
+    font-size: 50PX;
+    color: firebrick;
+}
+div{
+    font-weight: bold;
+    font-size: 30px;
+    color: darkblue;
+}
+table{
+   
+    border: 5px;
+    border-style:solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+th{
+    border: 5px;
+    border-style: solid;
+    border-top:5px solid rgb(145, 32, 32);
+    border-color: rgb(245, 241, 241);
+    border-collapse: collapse;
+}
+td{
+    border:2px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+.tr1{
+    background-color:rgb(0, 0, 0);
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.tr2{
+    background-color: rgb(112, 143, 117);
+    /* color: brown; */
+    /* font-weight: bold; */
+    font-size: 15px;
+}
+.tr3{
+    background-color: rgb(51, 250, 114);
+    /* color: brown; */
+    /* font-weight: bold; */
+    font-size: 15px;
+}
+.tr4{
+    background-color: aqua;
+    color: brown;
+    font-weight: bold;
+    font-size: 15px;
+}
+.tr5{
+    background-color: rgb(135, 111, 254);
+    color: brown;
+    font-weight: bold;
+    font-size: 15px;
+}
+.tr6{
+    background-color: rgb(240, 196, 201);
+    color: brown;
+    font-weight: bold;
+    font-size: 15px;
+}
+.tr7{
+    background-color: rgb(238, 225, 159);
+    color: brown;
+    font-weight: bold;
+    font-size: 15px;
+}
